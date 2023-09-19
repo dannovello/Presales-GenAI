@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embedding model"
+    id="id-32d65ae53f99468da0079bc10b256f72"
+    documentation="OpenAI, Cohere, Hugging Face"/>

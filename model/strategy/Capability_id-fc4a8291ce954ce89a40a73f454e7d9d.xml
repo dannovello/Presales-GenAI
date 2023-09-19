@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NVidia"
+    id="id-fc4a8291ce954ce89a40a73f454e7d9d">
+  <properties
+      key="Maturity"
+      value="High"/>
+</archimate:Capability>

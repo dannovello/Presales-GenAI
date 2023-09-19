@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation"
+    id="id-7a410b676ae7491597813e049731db36"
+    documentation="Data Transformation  – Provides data Integrity checking and validation without context and converts raw data into a clean and usable form. This process may include:&#xD;&#xA;-&#x9;converting data types, ex floating point data to fixed&#xD;&#xA;-&#x9;drop extraneous or superfluous data, and &#xD;&#xA;-&#x9;remove duplicates, digitizing analog data&#xD;&#xA;"/>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jarvis"
+    id="id-7fc95c8ad051481bb4d98e0142134365">
+  <properties
+      key="Maturity"
+      value="Medium"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI"
+    id="id-e4e9c4a93fb64f33960073096f1cd6ba">
+  <properties
+      key="Maturity"
+      value="Medium"/>
+</archimate:Capability>

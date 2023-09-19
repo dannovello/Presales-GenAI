@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging / LLM Ops"
+    id="id-5618bab072234547a4a06207eac1ffd4"
+    documentation="Weights &amp; Biases, MLflow, PromptLayer, Helicone"/>

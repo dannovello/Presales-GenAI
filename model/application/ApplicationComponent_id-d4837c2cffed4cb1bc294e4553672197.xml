@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single prompt"
+    id="id-d4837c2cffed4cb1bc294e4553672197"
+    documentation="The single-prompt solutions include:&#xD;&#xA;&#xD;&#xA;Few-shot prompting provides the model with examples before attempting a task. This allows it to learn from a small number of examples, usually less than 10 and the generalize to a new situation. This Meta-learning is considered an emergent property of LLM's.  see https://en.wikipedia.org/wiki/Prompt_engineering or by  adding explicit instruction such as &quot;Let's think step-by-step&quot; (i.e. zero-shot CoT prompting).https://arxiv.org/abs/2205.11916. LLMs are decent zero-shot reasoners by simply adding &quot;Let's think step by step&quot; before each answer."/>

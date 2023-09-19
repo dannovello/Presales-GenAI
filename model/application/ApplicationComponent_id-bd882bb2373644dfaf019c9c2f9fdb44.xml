@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LLM Cache"
+    id="id-bd882bb2373644dfaf019c9c2f9fdb44"
+    documentation="Redis, SQLite, GPTCache"/>

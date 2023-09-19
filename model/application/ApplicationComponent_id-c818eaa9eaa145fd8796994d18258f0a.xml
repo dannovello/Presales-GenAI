@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Normalization"
+    id="id-c818eaa9eaa145fd8796994d18258f0a"
+    documentation="Data Normalization – This is the process of &#xD;&#xA;-&#x9;extracting the data from the encapsulated device message, for example parsing from JSON or CSV files&#xD;&#xA;-&#x9;and placing it into a data storage schema, for example &#xD;&#xA;   • time series databases with standardized key tags for sensor types / readings for structured data with log files, &#xD;&#xA;   • images and video being kept used for unstructured data &#xD;&#xA;   • Geospatial data can be kept in a geodatabase.&#xD;&#xA;&#xD;&#xA;Data homogenization is the process bringing all data into a common geospatial framework to ensure consistency of data, integrity of analysis and validity of results. source:  User, Super. &quot;6.3 Data Homogenization&quot;. Cdema.Org, 2022, https://www.cdema.org/virtuallibrary/index.php/charim-hbook/data-management-book/6-managing-geospatial-data/6-3-data-homogenization. Accessed 24 Apr 2022."/>

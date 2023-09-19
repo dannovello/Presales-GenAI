@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opinionated cloud"
+    id="id-cc3cce79419d459cb4a8218f77c82c9a"
+    documentation="examples include Databricks, Anyscale, Mosaic, Modal, Runpod&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt Engineering"
+    id="id-e8714000429a4d978b7c91ad01a7283c"
+    documentation="Also known as in-context learning,  an alternative to fine-tuning.[1] Although no parameters are changed in the model, transformer architecture enables principled learning algorithms based on gradient descent inside their weights and enable mesa-optimization[2] i.e. learn-to-learn small models based on the data given in-context when making predictions.[3][4][5][6][7][8]"/>

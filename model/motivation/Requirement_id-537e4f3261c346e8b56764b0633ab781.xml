@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interactive web research with support for persistent threads"
+    id="id-537e4f3261c346e8b56764b0633ab781"
+    documentation="-Summarize top web search hits with relevant links cited. &#xD;&#xA;- Access to customer information such as  SEC filings under EDGAR, Linkedin Navigator, Zoominfo&#xD;&#xA;- Access to industry trade info and analyst briefings or abstracts eg Forrester, Gartner, IDC etc"/>

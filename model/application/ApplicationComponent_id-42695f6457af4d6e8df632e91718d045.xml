@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation"
+    id="id-42695f6457af4d6e8df632e91718d045"
+    documentation="Examples incl. Guardrails, Rebuff, Guidance, and LMQL"/>

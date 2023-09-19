@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12fcae51c0534e8693f5198cfce5bf9d"
+    documentation="Includes access to KLUE">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-eed688a96b7a4be9b5ad5eeb6260747d.xml#id-eed688a96b7a4be9b5ad5eeb6260747d"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-89c30f6f12d64500ab035d8c13e1583a.xml#id-89c30f6f12d64500ab035d8c13e1583a"/>
+</archimate:RealizationRelationship>

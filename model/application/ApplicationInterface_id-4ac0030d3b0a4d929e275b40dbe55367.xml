@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Provider"
+    id="id-4ac0030d3b0a4d929e275b40dbe55367"
+    documentation="Examples include AWS, GCP, Coreweave, Denvr?"/>

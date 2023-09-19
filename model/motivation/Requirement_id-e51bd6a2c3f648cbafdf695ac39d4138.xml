@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales team and tools link discovery"
+    id="id-e51bd6a2c3f648cbafdf695ac39d4138"
+    documentation="Should surface relevant sales tools such as capacity calculators, configuration guides, reporting tools etc.&#xD;&#xA;&#xD;&#xA;We need to have a tool to look up who the primary account executive or responsible sales rep is.&#xD;&#xA;"/>

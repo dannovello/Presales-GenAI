@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Context window"
+    id="id-71139bbb5644408d8ba6b1a39a9fb54a"
+    documentation="Large context windows are a powerful tool, but they also entail significant computational cost. "/>
