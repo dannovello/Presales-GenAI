@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Benefits"
+    id="id-fc8ceb6cecd5468db0b066d1213c2b75"
+    documentation="-Summarize top web search hits with relevant links cited. &#xD;&#xA;- Access to customer information such as  SEC filings under EDGAR, Linkedin Navigator, Zoominfo&#xD;&#xA;- Access to industry trade info and analyst briefings or abstracts eg Forrester, Gartner, IDC etc"/>
