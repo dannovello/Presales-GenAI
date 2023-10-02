@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer installed base information"
+    name="Account Information"
     id="id-50fc9f74347e401dac6b26bb75da6611"
     documentation="Includes site inventory, escalations, contact names, maintenance contract expiration dates, site lists, colo's used etc."/>
